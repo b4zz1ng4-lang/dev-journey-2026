@@ -1,4 +1,3 @@
-# dev-journey-2026
 # 🚀 Dev Journey 2026
 
 > Minha jornada para me tornar um Desenvolvedor Full Stack Java.
