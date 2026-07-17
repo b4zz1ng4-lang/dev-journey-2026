@@ -1,2 +1,97 @@
 # dev-journey-2026
-Minha jornada de estudos para me tornar um Desenvolvedor Full Stack Java. Aqui registro minha evolução, exercícios, projetos e aprendizados.
+# 🚀 Dev Journey 2026
+
+> Minha jornada para me tornar um Desenvolvedor Full Stack Java.
+
+Olá! Meu nome é **Allison Silva**.
+
+Este repositório documenta toda a minha evolução durante os estudos de programação, desde a lógica de programação até projetos completos em Java, Spring Boot e Front-end.
+
+Meu objetivo é compartilhar meu aprendizado, construir projetos reais e conquistar minha primeira oportunidade como Desenvolvedor Full Stack.
+
+---
+
+# 📚 Roadmap
+
+## Fundamentos
+- [ ] Lógica de Programação
+- [ ] Algoritmos
+- [ ] Estruturas de Dados
+- [ ] Programação Orientada a Objetos
+
+## Web
+- [ ] Cliente x Servidor
+- [ ] HTTP
+- [ ] HTTPS
+- [ ] DNS
+- [ ] Navegadores
+- [ ] APIs REST
+- [ ] JSON
+
+## Git
+- [ ] Git
+- [ ] GitHub
+- [ ] Branches
+- [ ] Merge
+- [ ] Pull Requests
+
+## Linux
+- [ ] Bash
+- [ ] Terminal
+- [ ] SSH
+- [ ] Variáveis de Ambiente
+
+## Java
+- [ ] Java 17+
+- [ ] Maven
+- [ ] Collections
+- [ ] Streams
+- [ ] Exceptions
+
+## Spring Boot
+- [ ] APIs REST
+- [ ] JPA
+- [ ] Hibernate
+- [ ] Spring Security
+- [ ] JWT
+- [ ] Testes
+
+## Banco de Dados
+- [ ] PostgreSQL
+- [ ] MongoDB
+
+## Front-end
+- [ ] HTML
+- [ ] CSS
+- [ ] JavaScript
+- [ ] TypeScript
+- [ ] Angular ou React
+
+## DevOps
+- [ ] Docker
+- [ ] GitHub Actions
+- [ ] Deploy
+
+---
+
+# 📈 Evolução
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%
+
+---
+
+# 🛠 Tecnologias
+
+Em aprendizado:
+
+- Java
+- Spring Boot
+- PostgreSQL
+- Git
+- GitHub
+- Docker
+- Angular
+
+---
+
+> "A prática leva ao domínio."
